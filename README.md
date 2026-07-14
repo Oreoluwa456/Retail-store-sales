@@ -20,8 +20,8 @@ The dashboard is engineered to drive data-backed decisions across several key op
 * Data Engineering & ETL: Power Query (Data cleaning, normalization, and modeling)
 * Analytical Calculations: DAX (Data Analysis Expressions) for custom time-intelligence and KPI formulas
 
-* #Dashboard Preview
-* https://github.com/Oreoluwa456/Retail-store-sales/blob/main/image.png
+  # Dashboard Preview
+  https://github.com/Oreoluwa456/Retail-store-sales/blob/main/image.png
 
   # dataset Used
   https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning
